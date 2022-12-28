@@ -1,18 +1,10 @@
 # GOV.UK Design System Flow Diagrams for Figma
 
-A resource to help teams show the interaction design of services.
+A resource to help teams show the interaction design of services. [Read the blog post](https://paulsmith.site/posts/govuk-flow-diagrams-figma/).
 
 ## [Download the Figma file](https://github.com/paulmsmith/govuk-flow-diagrams-figma/raw/main/govuk-design-system-flow-diagrams.fig)
 
 ---
-
-## Adding superpowers to user-flow diagrams with Figma
-
-For full context I have written [a blog post about this Figma file](https://paulsmith.site/posts/govuk-flow-diagrams-figma/), which is a version of the GOVUK Design System Flow Diagrams but enhanced with the capabilities of [Figma](https://figma.com).
-
-Figma is great for creating visuals but it combines that with simple to use tools to help designers to create interactive prototypes.
-
-The ability Figma provides to create easily customisable prototypes is what I have used to give some additional superpowers to the govuk flow diagrams we know and love.
 
 ### Easily add and customise flow steps
 
