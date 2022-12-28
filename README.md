@@ -2,6 +2,10 @@
 
 A resource to help teams show the interaction design of services.
 
+## [Download the Figma file](https://github.com/paulmsmith/govuk-flow-diagrams-figma/raw/main/govuk-design-system-flow-diagrams.fig)
+
+---
+
 ## Adding superpowers to user-flow diagrams with Figma
 
 For full context I have written a blog post about this Figma file, a version of the GOVUK Design System Flow Diagrams but enhanced with the capabilities of [Figma](https://figma.com).
@@ -41,5 +45,3 @@ Using Figma's prototyping tools. You can create flows showing different levels o
 https://user-images.githubusercontent.com/57055/209880818-6b3093ee-7013-4652-a901-89314293c907.mp4
 
 This gives impression of zooming in when following the flow diagram and means you should be able to more easily manage changes to the flow by compartmentalising sections of it and then linking them together.
-
-## [Download the Figma file](https://github.com/paulmsmith/govuk-flow-diagrams-figma/raw/main/govuk-design-system-flow-diagrams.fig)
