@@ -8,7 +8,7 @@ A resource to help teams show the interaction design of services.
 
 ## Adding superpowers to user-flow diagrams with Figma
 
-For full context I have written a blog post about this Figma file, a version of the GOVUK Design System Flow Diagrams but enhanced with the capabilities of [Figma](https://figma.com).
+For full context I have written [a blog post about this Figma file](https://paulsmith.site/posts/govuk-flow-diagrams-figma/), which is a version of the GOVUK Design System Flow Diagrams but enhanced with the capabilities of [Figma](https://figma.com).
 
 Figma is great for creating visuals but it combines that with simple to use tools to help designers to create interactive prototypes.
 
