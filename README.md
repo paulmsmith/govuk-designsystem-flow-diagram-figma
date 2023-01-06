@@ -2,18 +2,20 @@
 
 A resource to help teams show the interaction design of services.
 
-![Screenshot of the Figma file](https://user-images.githubusercontent.com/57055/210880546-9c2147a5-aa51-4bf2-a0f4-dcb2f5c6acf4.png)
-
-For a detailed introduction to this resource you can read my blog post: [GOV.UK Design System Flow Diagrams for Figma](https://paulsmith.site/posts/govuk-flow-diagrams-figma/).
-
----
-
 ## How to get your copy of the Figma file
 
 You create a copy of this Figma file by either:
 
 - Creating a copy from the [Figma community file](https://www.figma.com/community/file/1190408343174633432)
 - [Downloading the Figma '.fig' file](https://github.com/paulmsmith/govuk-flow-diagrams-figma/raw/main/govuk-design-system-flow-diagrams.fig) from this repository
+
+## What is it?
+
+![Screenshot of the Figma file](https://user-images.githubusercontent.com/57055/210880546-9c2147a5-aa51-4bf2-a0f4-dcb2f5c6acf4.png)
+
+For a detailed introduction to this resource you can read my blog post: [GOV.UK Design System Flow Diagrams for Figma](https://paulsmith.site/posts/govuk-flow-diagrams-figma/).
+
+---
 
 ## How to use
 
