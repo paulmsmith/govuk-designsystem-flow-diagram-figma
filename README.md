@@ -25,18 +25,18 @@ For a detailed introduction to this resource you can read my blog post: [GOV.UK 
    
    <img width="333" alt="2023-01-05 at 21 15 02" src="https://user-images.githubusercontent.com/57055/210881658-a97211e7-e33f-4c1a-b95a-3fc9fb3c1782.png">
 
-4. Choose 'Flow blocks'
-5. Then choose a block to add to your frame. Clicking it will add it.
+4. Choose 'Flow components'
+5. Then choose a component to add to your frame. Clicking it will add it.
    
    <img width="316" alt="2023-01-05 at 21 19 26" src="https://user-images.githubusercontent.com/57055/210882082-db3d4dea-5aa2-4d6a-8a75-5a8cc0cff810.png">
    
-6. Finally you can change the content of the block by finding the component property inspector panel (typically on the right side of your Figma window).
+6. Finally you can change the content of the component by finding the component property inspector panel (typically on the right side of your Figma window).
 
    <img width="316" alt="2023-01-05 at 21 19 26" src="https://user-images.githubusercontent.com/57055/210882675-0ee6ffe8-fa48-4735-a505-cad77dce24f1.png">
 
   Changing the 'Page type' will show or hide properties you can change. 
 
-Repeat this process for other blocks and use the arrow component to connect them. 
+Repeat this process for other components and use the arrow component to connect them. 
 
 ---
 
