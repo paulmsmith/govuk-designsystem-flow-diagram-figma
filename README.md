@@ -28,7 +28,8 @@ For a detailed introduction to this resource you can read my blog post: [GOV.UK 
 4. Choose 'Flow components'
 5. Then choose a component to add to your frame. Clicking it will add it.
    
-   <img width="316" alt="2023-01-05 at 21 19 26" src="https://user-images.githubusercontent.com/57055/210882082-db3d4dea-5aa2-4d6a-8a75-5a8cc0cff810.png">
+   ![2023-01-17 at 11 43 02](https://user-images.githubusercontent.com/57055/212890510-7f8861f3-e5b9-4c3f-bdd7-468becc5677f.png)
+
    
 6. Finally you can change the content of the component by finding the component property inspector panel (typically on the right side of your Figma window).
 
