@@ -23,7 +23,8 @@ For a detailed introduction to this resource you can read my blog post: [GOV.UK 
 2. Draw a frame for your flow diagram (You can resize later if you need more space).
 3. Open the 'resources' menu (SHIFT + I)
    
-   <img width="333" alt="2023-01-05 at 21 15 02" src="https://user-images.githubusercontent.com/57055/210881658-a97211e7-e33f-4c1a-b95a-3fc9fb3c1782.png">
+   ![2023-01-17 at 11 44 31](https://user-images.githubusercontent.com/57055/212890776-9659823c-0cba-4de1-8f42-ed5813edbb52.png)
+
 
 4. Choose 'Flow components'
 5. Then choose a component to add to your frame. Clicking it will add it.
